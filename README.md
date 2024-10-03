@@ -1,15 +1,10 @@
-Hey, wassup 👋 <img align='right' src="https://github-readme-stats.vercel.app/api?username=w99910&hide_title=true&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&theme=dracula&border_radius=10&hide_border=true&bg_color=252422&title_color=7678ed&card_width=300" width=460 height=180>
-My name is "Thomas Brillion" and I am a Burmese Software Engineer 🧑🏻‍💻🧑🏻‍💻, currently resided in Chiang Mai. 
+🚀 Full-Stack Developer | Laravel, Vue.js, Three.js, and More 🚀
 
-My first love 🩷 is "Laravel" and my best friend is "Vue". ✌🏼
+Since kick-starting my career in 2021, I’ve been passionate about crafting efficient, scalable, and visually engaging web solutions. With a strong foundation in Laravel, I’ve built a range of applications from data dashboards to landing pages and dynamic web pages that drive user engagement and streamline workflows. My tech stack includes PHP, Vue.js, JavaScript, and TypeScript, ensuring versatile solutions for any project.
 
-And I sometimes hang out with "Blender". 🙋🏼‍♂️🙋🏼‍♂️
+Beyond the backend, I bring a creative edge with Three.js and Blender—blending stunning 3D visuals into interactive user experiences. Whether it's building intuitive user interfaces, enhancing frontend performance, or working on complex data visualizations, I thrive in delivering end-to-end solutions.
 
-But I haven't got in touch with "Flutter" since a year ago.🙍🏼‍♂️🙍🏼‍♂️
-
-I enjoy developing open-source projects 🤘🏼🤘🏼 and have worked on multiple Laravel projects for last three years. 
-
-I write articles 📃📃 on my [medium](https://medium.com/@thomasbrillion). 
+I also write articles 📃📃 on my [medium](https://medium.com/@thomasbrillion). 
 
 Want to get to know me better? DM me via [X/Twitter](https://twitter.com/@thomasbrillion) or [email ✉️✉️](mailto:thomasbrillionn@gmail.com)
 
